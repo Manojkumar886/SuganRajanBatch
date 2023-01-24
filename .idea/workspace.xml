@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01923dfb-330e-4a8b-984a-a41e95ef099c" name="Changes" comment="datatypes is completed....">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FundamentalJava/DemoMethodsandVariableTypes/DemoVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FundamentalJava/DemoMethodsandVariableTypes/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FundamentalJava/DemoTypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="01923dfb-330e-4a8b-984a-a41e95ef099c" name="Changes" comment="Methods and variables is started">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FundamentalJava/DemoMethodsandVariableTypes/DemoVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FundamentalJava/DemoMethodsandVariableTypes/DemoVariables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673329325800</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Methods and variables is started">
+      <created>1674106171091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674106171091</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="datatypes is completed...." />
-    <option name="LAST_COMMIT_MESSAGE" value="datatypes is completed...." />
+    <MESSAGE value="Methods and variables is started" />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods and variables is started" />
   </component>
 </project>
